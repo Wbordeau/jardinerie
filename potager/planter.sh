@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "savez-vous..."
-echo "savez-vous rien faire"
+echo "savez-vous tout faire"
